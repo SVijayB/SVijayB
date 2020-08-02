@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-
   <a href="mailto:vijaybalaji2477@gmail.com">
     <img alt="Gmail" width="22px" src="assets/SVG/gmail.svg" />
   </a>
@@ -28,5 +27,11 @@
   <br />
   <img align="center" alt="GIF" src="assets/GIF/Gif.gif" />
   <br />
+</p>
 
+### Just another Machine learning, Data science enthusiast 💻 
+<p align="center">
+  <a href="https://sourcerer.io/svijayb">
+    <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=SVijayB&show_icons=true&theme=solarized-light">
+  </a>
 </p>
