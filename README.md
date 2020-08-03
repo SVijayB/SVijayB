@@ -41,3 +41,6 @@
 |<img src="assets/SVG/Languages/python.svg" width=60> | <img src="assets/SVG/Languages/java.svg" width=60>|  <img src="assets/SVG/Languages/c++.svg" width=60> | <img src="assets/SVG/Languages/visual-basic.svg" width=60> |<img src="assets/SVG/Languages/html5.svg" width=60> |<img src="assets/SVG/Languages/css.svg" width=60> |<img src="assets/SVG/Languages/r.svg" width=60> |<img src="assets/SVG/Languages/matlab.svg" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
+### Tools 🔥
+|<img src="assets/SVG/Tools/Vscode.svg" width=60> |<img src="assets/SVG/Tools/github.svg" width=60> |<img src="assets/SVG/Tools/arduino.svg" width=60> |<img src="assets/SVG/Tools/netlify.svg" width=60> |<img src="assets/SVG/Tools/git.svg" width=60> |<img src="assets/SVG/Tools/bash.svg" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
