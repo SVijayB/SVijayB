@@ -30,6 +30,15 @@
 </p>
 
 ### Just another Machine learning, Data science enthusiast 💻 
+
+  - 📝 Working on various Python projects and automation tools.
+  - 🌱 Learning Java.
+  - 👯 Would love to collaborate on Maching learning projects.
+  - 🤔 Need help in frontend or GUI development.
+  - 💬 Ask me about Python and Web Dev.
+  - ⚡ Fun fact: I spend most of my time gaming or coding.
+
+
 <p align="center">
   <a href="https://sourcerer.io/svijayb">
     <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=SVijayB&show_icons=true&theme=light">
