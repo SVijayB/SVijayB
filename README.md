@@ -42,5 +42,5 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Tools 🔥
-|<img src="assets/SVG/Tools/Vscode.svg" width=60> |<img src="assets/SVG/Tools/github.svg" width=60> |<img src="assets/SVG/Tools/arduino.svg" width=60> |<img src="assets/SVG/Tools/netlify.svg" width=60> |<img src="assets/SVG/Tools/git.svg" width=60> |<img src="assets/SVG/Tools/bash.svg" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|<img src="assets/SVG/Tools/Vscode.svg" width=60> |<img src="assets/SVG/Tools/github.svg" width=60> |<img src="assets/SVG/Tools/arduino.svg" width=60> |<img src="assets/SVG/Tools/netlify.svg" width=60> |<img src="assets/SVG/Tools/git.svg" width=60> |<img src="assets/SVG/Tools/vim.svg" width=60> |<img src="assets/SVG/Tools/bash.svg" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
