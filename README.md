@@ -43,6 +43,8 @@
   <a href="https://sourcerer.io/svijayb">
     <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=SVijayB&show_icons=true&theme=light">
   </a>
+  <br>
+  <img alt="Profile View count" src="https://komarev.com/ghpvc/?username=SVijayB&style=flat-square&color=brightgreen" />
 </p>
 
 ### Languages 🚀
