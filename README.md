@@ -53,3 +53,26 @@
 ### Tools 🔥
 |<img src="assets/SVG/Tools/Vscode.svg" width=60> |<img src="assets/SVG/Tools/github.svg" width=60> |<img src="assets/SVG/Tools/arduino.svg" width=60> |<img src="assets/SVG/Tools/netlify.svg" width=60> |<img src="assets/SVG/Tools/git.svg" width=60> |<img src="assets/SVG/Tools/vim.svg" width=60> |<img src="assets/SVG/Tools/bash.svg" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+### Trying to get in touch? 📞
+<p align="center">
+  <a href="mailto:vijaybalaji2477@gmail.com">
+    <img alt="Gmail" src="assets/SVG/Contact/email.svg" style="vertical-align:top margin:6px 4px"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/svijayb/">
+    <img alt="Linkedin" src="assets/SVG/Contact/linkedin.svg" style="vertical-align:top margin:6px 4px"/>
+  </a>
+
+  <a href="https://twitter.com/VijaybalajiS1">
+    <img alt="Twitter" src="assets/SVG/Contact/twitter.svg" style="vertical-align:top margin:6px 4px"/>
+  </a>
+
+  <a href="https://www.instagram.com/s.vj._/">
+    <img alt="Instagram" src="assets/SVG/Contact/instagram.svg" style="vertical-align:top margin:6px 4px"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/SVijayB">
+    <img alt="Instagram" src="assets/SVG/Contact/steam.svg" style="vertical-align:top margin:6px 4px"/>
+  </a>
+</p>
