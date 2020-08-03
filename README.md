@@ -32,6 +32,9 @@
 ### Just another Machine learning, Data science enthusiast 💻 
 <p align="center">
   <a href="https://sourcerer.io/svijayb">
-    <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=SVijayB&show_icons=true&theme=solarized-light">
+    <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=SVijayB&show_icons=true&theme=light">
   </a>
 </p>
+
+### Programming Languages 🚀
+
