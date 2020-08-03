@@ -5,23 +5,23 @@
 
 <p align="center">
   <a href="mailto:vijaybalaji2477@gmail.com">
-    <img alt="Gmail" width="22px" src="assets/SVG/gmail.svg" />
+    <img alt="Gmail" width="22px" src="assets/SVG/Social/gmail.svg" />
   </a>
 
   <a href="https://www.linkedin.com/in/svijayb/">
-    <img alt="Linkedin" width="22px" src="assets/SVG/linkedin.svg" />
+    <img alt="Linkedin" width="22px" src="assets/SVG/Social/linkedin.svg" />
   </a>
 
   <a href="https://twitter.com/VijaybalajiS1">
-    <img alt="VijaybalajiS1 | Twitter" width="22px" src="assets/SVG/twitter.svg" />
+    <img alt="VijaybalajiS1 | Twitter" width="22px" src="assets/SVG/Social/twitter.svg" />
   </a>
 
   <a href="https://www.instagram.com/s.vj._/">
-    <img alt="Instagram" width="22px" src="assets/SVG/instagram.svg" />
+    <img alt="Instagram" width="22px" src="assets/SVG/Social/instagram.svg" />
   </a>
 
   <a href="https://www.hackerrank.com/SVijayB">
-    <img alt="Instagram" width="22px" src="assets/SVG/hackerrank.svg" />
+    <img alt="Instagram" width="22px" src="assets/SVG/Social/hackerrank.svg" />
   </a>
 
   <br />
@@ -36,5 +36,8 @@
   </a>
 </p>
 
-### Programming Languages 🚀
+### Languages 🚀
+
+|<img src="assets/SVG/Languages/python.svg" width=60> | <img src="assets/SVG/Languages/java.svg" width=60>|  <img src="assets/SVG/Languages/c++.svg" width=60> | <img src="assets/SVG/Languages/visual-basic.svg" width=60> |<img src="assets/SVG/Languages/html5.svg" width=60> |<img src="assets/SVG/Languages/css.svg" width=60> |<img src="assets/SVG/Languages/r.svg" width=60> |<img src="assets/SVG/Languages/matlab.svg" width=60> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
