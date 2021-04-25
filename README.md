@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! Vijay here 👋 </h1>
 <p align="center">
-   Machine Learning | Data Science | Network Security | Competitive Programming | Problem Solving   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   Machine Learning | Data Science | Competitive Programming | Problem Solving   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 
 <p align="center">
