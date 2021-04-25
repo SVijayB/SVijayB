@@ -44,6 +44,10 @@
     <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=SVijayB&show_icons=true&theme=light">
   </a>
   <br>
+  <a href="https://sourcerer.io/svijayb">
+    <img alt = "GitHub Streaks" src = "http://github-readme-streak-stats.herokuapp.com?user=SVijayB&theme=blood">
+  </a>
+  <br>
   <img alt="Profile View count" src="https://komarev.com/ghpvc/?username=SVijayB&style=flat-square&color=brightgreen" />
 </p>
 
@@ -53,6 +57,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Tools 🔥
+
 |<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60></a> |<a href="http://github.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/github.svg" width=60></a> |<a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/arduino.svg" width=60></a> |<a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/netlify.svg" width=60></a> |<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/git.svg" width=60></a> |<a href="https://www.vim.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/vim.svg" width=60></a> |<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/bash.svg" width=60></a> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
