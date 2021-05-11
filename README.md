@@ -48,7 +48,7 @@
     <img alt = "GitHub Streaks" src = "http://github-readme-streak-stats.herokuapp.com?user=SVijayB&theme=blood">
   </a>
   <br>
-  <img alt="Profile View count" src="https://grabify.link/1O5RZS" />
+  <img alt="Profile View count" src="http://bit.ly/svijayb-view-counter" />
 </p>
 
 ### Languages 🚀
