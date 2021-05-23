@@ -45,7 +45,7 @@
   </a>
   <br>
   <a href="https://sourcerer.io/svijayb">
-    <img alt = "GitHub Streaks" src = "http://github-readme-streak-stats.herokuapp.com?user=SVijayB&theme=blood&dates=1E90FF&stroke=1E90FF&ring=1E90FF&fire=FF0000&currStreakNum=FF0000&sideNums=FF4500&currStreakLabel=228B22&border=FF0000&sideLabels=228B22">
+    <img alt = "GitHub Streaks" src = "https://github-readme-streak-stats.herokuapp.com?user=SVijayB&theme=blood&ring=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&currStreakLabel=1E90FF&fire=FF0000&currStreakNum=FF0000">
   </a>
   <br>
   <img alt="Profile View count" src="https://komarev.com/ghpvc/?username=SVijayB&style=flat-square&color=brightgreen" />
