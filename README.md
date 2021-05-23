@@ -70,11 +70,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SVijayB/URLShortener/pull/1) in [SVijayB/URLShortener](https://github.com/SVijayB/URLShortener)
-2. 🎉 Merged PR [#13](https://github.com/SVijayB/Steam_WebScraper/pull/13) in [SVijayB/Steam_WebScraper](https://github.com/SVijayB/Steam_WebScraper)
-3. ❗️ Closed issue [#11](https://github.com/SVijayB/Steam_WebScraper/issues/11) in [SVijayB/Steam_WebScraper](https://github.com/SVijayB/Steam_WebScraper)
-4. 🗣 Commented on [#11](https://github.com/SVijayB/Steam_WebScraper/issues/11) in [SVijayB/Steam_WebScraper](https://github.com/SVijayB/Steam_WebScraper)
-5. 💪 Opened PR [#13](https://github.com/SVijayB/Steam_WebScraper/pull/13) in [SVijayB/Steam_WebScraper](https://github.com/SVijayB/Steam_WebScraper)
+1. 🗣 Commented on [#167](https://github.com/Splode/pomotroid/issues/167) in [Splode/pomotroid](https://github.com/Splode/pomotroid)
+2. 🎉 Merged PR [#1](https://github.com/SVijayB/URLShortener/pull/1) in [SVijayB/URLShortener](https://github.com/SVijayB/URLShortener)
+3. 🎉 Merged PR [#13](https://github.com/SVijayB/Steam_WebScraper/pull/13) in [SVijayB/Steam_WebScraper](https://github.com/SVijayB/Steam_WebScraper)
+4. ❗️ Closed issue [#11](https://github.com/SVijayB/Steam_WebScraper/issues/11) in [SVijayB/Steam_WebScraper](https://github.com/SVijayB/Steam_WebScraper)
+5. 🗣 Commented on [#11](https://github.com/SVijayB/Steam_WebScraper/issues/11) in [SVijayB/Steam_WebScraper](https://github.com/SVijayB/Steam_WebScraper)
 <!--END_SECTION:activity-->
 </details>
 
