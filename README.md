@@ -68,6 +68,7 @@
 <details>
    <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/SVijayB/URLShortener/pull/1) in [SVijayB/URLShortener](https://github.com/SVijayB/URLShortener)
 2. 🎉 Merged PR [#13](https://github.com/SVijayB/Steam_WebScraper/pull/13) in [SVijayB/Steam_WebScraper](https://github.com/SVijayB/Steam_WebScraper)
