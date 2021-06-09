@@ -29,7 +29,9 @@
     <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/GIF/Gif.gif" />
   </a>
   <br /><br />
+  <a href="https://github.com/SVijayB">
   <img alt="Profile View count" src="https://komarev.com/ghpvc/?username=SVijayB&style=flat-square&color=brightgreen" />
+  </a>
 </p>
 
 
