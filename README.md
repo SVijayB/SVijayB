@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker/pull/33) in [Open-Source-Community-VIT-AP/Productivity-tracker](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker)
-2. 🎉 Merged PR [#53](https://github.com/Open-Source-Community-VIT-AP/oschub/pull/53) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-3. 🎉 Merged PR [#32](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker/pull/32) in [Open-Source-Community-VIT-AP/Productivity-tracker](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker)
-4. 🗣 Commented on [#167](https://github.com/Splode/pomotroid/issues/167) in [Splode/pomotroid](https://github.com/Splode/pomotroid)
-5. 🎉 Merged PR [#1](https://github.com/SVijayB/URLShortener/pull/1) in [SVijayB/URLShortener](https://github.com/SVijayB/URLShortener)
+1. 🎉 Merged PR [#42](https://github.com/SVijayB/PyHub/pull/42) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+2. 🗣 Commented on [#42](https://github.com/SVijayB/PyHub/issues/42) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+3. 💪 Opened PR [#42](https://github.com/SVijayB/PyHub/pull/42) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+4. 🎉 Merged PR [#33](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker/pull/33) in [Open-Source-Community-VIT-AP/Productivity-tracker](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker)
+5. 🎉 Merged PR [#53](https://github.com/Open-Source-Community-VIT-AP/oschub/pull/53) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
 <!--END_SECTION:activity-->
 </details>
 
