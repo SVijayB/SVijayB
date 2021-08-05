@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/WSoC-VITAP/oschub/pull/1) in [WSoC-VITAP/oschub](https://github.com/WSoC-VITAP/oschub)
-2. 💪 Opened PR [#1](https://github.com/WSoC-VITAP/oschub/pull/1) in [WSoC-VITAP/oschub](https://github.com/WSoC-VITAP/oschub)
-3. 🎉 Merged PR [#42](https://github.com/SVijayB/PyHub/pull/42) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-4. 🗣 Commented on [#42](https://github.com/SVijayB/PyHub/issues/42) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-5. 💪 Opened PR [#42](https://github.com/SVijayB/PyHub/pull/42) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+1. 🎉 Merged PR [#1](https://github.com/SVijayB/NumberGenerator/pull/1) in [SVijayB/NumberGenerator](https://github.com/SVijayB/NumberGenerator)
+2. 🎉 Merged PR [#1](https://github.com/WSoC-VITAP/oschub/pull/1) in [WSoC-VITAP/oschub](https://github.com/WSoC-VITAP/oschub)
+3. 💪 Opened PR [#1](https://github.com/WSoC-VITAP/oschub/pull/1) in [WSoC-VITAP/oschub](https://github.com/WSoC-VITAP/oschub)
+4. 🎉 Merged PR [#42](https://github.com/SVijayB/PyHub/pull/42) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+5. 🗣 Commented on [#42](https://github.com/SVijayB/PyHub/issues/42) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
 <!--END_SECTION:activity-->
 </details>
 
