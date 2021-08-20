@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SVijayB/Git-Basics/issues/1) in [SVijayB/Git-Basics](https://github.com/SVijayB/Git-Basics)
-2. 🗣 Commented on [#1](https://github.com/SVijayB/Git-Basics/issues/1) in [SVijayB/Git-Basics](https://github.com/SVijayB/Git-Basics)
-3. 🎉 Merged PR [#1](https://github.com/SVijayB/Git-Basics/pull/1) in [SVijayB/Git-Basics](https://github.com/SVijayB/Git-Basics)
-4. 🎉 Merged PR [#2](https://github.com/SVijayB/Git-Basics/pull/2) in [SVijayB/Git-Basics](https://github.com/SVijayB/Git-Basics)
-5. 💪 Opened PR [#2](https://github.com/SVijayB/Git-Basics/pull/2) in [SVijayB/Git-Basics](https://github.com/SVijayB/Git-Basics)
+1. 🎉 Merged PR [#1](https://github.com/SVijayB/Productivity-tracker/pull/1) in [SVijayB/Productivity-tracker](https://github.com/SVijayB/Productivity-tracker)
+2. 💪 Opened PR [#1](https://github.com/SVijayB/Productivity-tracker/pull/1) in [SVijayB/Productivity-tracker](https://github.com/SVijayB/Productivity-tracker)
+3. 🗣 Commented on [#1](https://github.com/SVijayB/Git-Basics/issues/1) in [SVijayB/Git-Basics](https://github.com/SVijayB/Git-Basics)
+4. 🗣 Commented on [#1](https://github.com/SVijayB/Git-Basics/issues/1) in [SVijayB/Git-Basics](https://github.com/SVijayB/Git-Basics)
+5. 🎉 Merged PR [#1](https://github.com/SVijayB/Git-Basics/pull/1) in [SVijayB/Git-Basics](https://github.com/SVijayB/Git-Basics)
 <!--END_SECTION:activity-->
 </details>
 
