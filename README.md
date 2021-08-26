@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/Open-Source-Community-VIT-AP/oschub/pull/67) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-2. 🎉 Merged PR [#1](https://github.com/SVijayB/Productivity-tracker/pull/1) in [SVijayB/Productivity-tracker](https://github.com/SVijayB/Productivity-tracker)
-3. 💪 Opened PR [#1](https://github.com/SVijayB/Productivity-tracker/pull/1) in [SVijayB/Productivity-tracker](https://github.com/SVijayB/Productivity-tracker)
-4. 🗣 Commented on [#1](https://github.com/SVijayB/Git-Basics/issues/1) in [SVijayB/Git-Basics](https://github.com/SVijayB/Git-Basics)
-5. 🗣 Commented on [#1](https://github.com/SVijayB/Git-Basics/issues/1) in [SVijayB/Git-Basics](https://github.com/SVijayB/Git-Basics)
+1. 🗣 Commented on [#68](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/68) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
+2. 🎉 Merged PR [#68](https://github.com/Open-Source-Community-VIT-AP/oschub/pull/68) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
+3. 🎉 Merged PR [#67](https://github.com/Open-Source-Community-VIT-AP/oschub/pull/67) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
+4. 🎉 Merged PR [#1](https://github.com/SVijayB/Productivity-tracker/pull/1) in [SVijayB/Productivity-tracker](https://github.com/SVijayB/Productivity-tracker)
+5. 💪 Opened PR [#1](https://github.com/SVijayB/Productivity-tracker/pull/1) in [SVijayB/Productivity-tracker](https://github.com/SVijayB/Productivity-tracker)
 <!--END_SECTION:activity-->
 </details>
 
