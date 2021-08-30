@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker/pull/34) in [Open-Source-Community-VIT-AP/Productivity-tracker](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker)
-2. 🎉 Merged PR [#35](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker/pull/35) in [Open-Source-Community-VIT-AP/Productivity-tracker](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker)
-3. ❗️ Opened issue [#69](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/69) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-4. 🎉 Merged PR [#39](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/39) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
-5. 🎉 Merged PR [#38](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/38) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+1. 🎉 Merged PR [#51](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/51) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+2. 💪 Opened PR [#51](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/51) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+3. ❌ Closed PR [#44](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/44) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+4. 🗣 Commented on [#44](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/44) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+5. 🗣 Commented on [#50](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/50) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
 <!--END_SECTION:activity-->
 </details>
 
