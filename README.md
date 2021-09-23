@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#76](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/76) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-2. ❗️ Closed issue [#74](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/74) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-3. 🗣 Commented on [#74](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/74) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-4. 🗣 Commented on [#74](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/74) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-5. 🎉 Merged PR [#75](https://github.com/Open-Source-Community-VIT-AP/oschub/pull/75) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
+1. 🎉 Merged PR [#42](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/42) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+2. 🎉 Merged PR [#41](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/41) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+3. 💪 Opened PR [#63](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/63) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+4. ❗️ Opened issue [#76](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/76) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
+5. ❗️ Closed issue [#74](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/74) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
 <!--END_SECTION:activity-->
 </details>
 
