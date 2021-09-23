@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/42) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
-2. 🎉 Merged PR [#41](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/41) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
-3. 💪 Opened PR [#63](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/63) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
-4. ❗️ Opened issue [#76](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/76) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-5. ❗️ Closed issue [#74](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/74) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
+1. 🎉 Merged PR [#62](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/62) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+2. ❌ Closed PR [#60](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/60) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+3. 🗣 Commented on [#60](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/60) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+4. ❌ Closed PR [#59](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/59) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+5. 🗣 Commented on [#59](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/59) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
 <!--END_SECTION:activity-->
 </details>
 
