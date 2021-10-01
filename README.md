@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SVijayB/PyHub/issues/1) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-2. 🎉 Merged PR [#36](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker/pull/36) in [Open-Source-Community-VIT-AP/Productivity-tracker](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker)
+1. 🎉 Merged PR [#44](https://github.com/SVijayB/PyHub/pull/44) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+2. 🗣 Commented on [#1](https://github.com/SVijayB/PyHub/issues/1) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
 3. 🗣 Commented on [#1](https://github.com/SVijayB/PyHub/issues/1) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-4. ❗️ Reopened issue [#1](https://github.com/SVijayB/PyHub/issues/1) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-5. 🎉 Merged PR [#66](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/66) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+4. 🎉 Merged PR [#36](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker/pull/36) in [Open-Source-Community-VIT-AP/Productivity-tracker](https://github.com/Open-Source-Community-VIT-AP/Productivity-tracker)
+5. 🗣 Commented on [#1](https://github.com/SVijayB/PyHub/issues/1) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
 <!--END_SECTION:activity-->
 </details>
 
