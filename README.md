@@ -75,10 +75,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45](https://github.com/SVijayB/PyHub/issues/45) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-2. 🗣 Commented on [#1](https://github.com/SVijayB/PyHub/issues/1) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-3. 🎉 Merged PR [#44](https://github.com/SVijayB/PyHub/pull/44) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+2. 🎉 Merged PR [#45](https://github.com/SVijayB/PyHub/pull/45) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+3. 🗣 Commented on [#45](https://github.com/SVijayB/PyHub/issues/45) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
 4. 🗣 Commented on [#1](https://github.com/SVijayB/PyHub/issues/1) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-5. 🗣 Commented on [#1](https://github.com/SVijayB/PyHub/issues/1) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+5. 🎉 Merged PR [#44](https://github.com/SVijayB/PyHub/pull/44) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
 <!--END_SECTION:activity-->
 </details>
 
