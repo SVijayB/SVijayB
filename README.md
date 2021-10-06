@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#61](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/61) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
-2. 🗣 Commented on [#61](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/61) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
-3. 🗣 Commented on [#71](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/71) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
-4. ❌ Closed PR [#71](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/71) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
-5. 🎉 Merged PR [#3](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/pull/3) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
+1. 🗣 Commented on [#61](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/61) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+2. ❌ Closed PR [#61](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/61) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+3. 🗣 Commented on [#61](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/61) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+4. 🗣 Commented on [#71](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/71) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+5. ❌ Closed PR [#71](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/71) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
 <!--END_SECTION:activity-->
 </details>
 
