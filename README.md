@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/pull/3) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
-2. 🎉 Merged PR [#46](https://github.com/SVijayB/PyHub/pull/46) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-3. 🗣 Commented on [#45](https://github.com/SVijayB/PyHub/issues/45) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-4. 🎉 Merged PR [#45](https://github.com/SVijayB/PyHub/pull/45) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-5. 🗣 Commented on [#45](https://github.com/SVijayB/PyHub/issues/45) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+1. ❌ Closed PR [#61](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/61) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+2. 🗣 Commented on [#61](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/61) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+3. 🗣 Commented on [#71](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/71) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+4. ❌ Closed PR [#71](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/71) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+5. 🎉 Merged PR [#3](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/pull/3) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
 <!--END_SECTION:activity-->
 </details>
 
