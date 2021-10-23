@@ -74,10 +74,10 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/SVijayB/PyHub/pull/47) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-2. 🗣 Commented on [#26](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/issues/26) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
-3. 🎉 Merged PR [#26](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/pull/26) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
-4. 🗣 Commented on [#61](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/61) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+1. 🎉 Merged PR [#2](https://github.com/Open-Source-Community-VIT-AP/Awesome-OSC/pull/2) in [Open-Source-Community-VIT-AP/Awesome-OSC](https://github.com/Open-Source-Community-VIT-AP/Awesome-OSC)
+2. 🎉 Merged PR [#47](https://github.com/SVijayB/PyHub/pull/47) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+3. 🗣 Commented on [#26](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/issues/26) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
+4. 🎉 Merged PR [#26](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/pull/26) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
 5. 🗣 Commented on [#61](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/61) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
 <!--END_SECTION:activity-->
 </details>
