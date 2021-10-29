@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/pull/27) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
-2. 🗣 Commented on [#48](https://github.com/SVijayB/PyHub/issues/48) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-3. 🎉 Merged PR [#48](https://github.com/SVijayB/PyHub/pull/48) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-4. 🎉 Merged PR [#2](https://github.com/Open-Source-Community-VIT-AP/Awesome-OSC/pull/2) in [Open-Source-Community-VIT-AP/Awesome-OSC](https://github.com/Open-Source-Community-VIT-AP/Awesome-OSC)
-5. 🎉 Merged PR [#47](https://github.com/SVijayB/PyHub/pull/47) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+1. 🎉 Merged PR [#11](https://github.com/Open-Source-Community-VIT-AP/WSoC-Website/pull/11) in [Open-Source-Community-VIT-AP/WSoC-Website](https://github.com/Open-Source-Community-VIT-AP/WSoC-Website)
+2. 🗣 Commented on [#11](https://github.com/Open-Source-Community-VIT-AP/WSoC-Website/issues/11) in [Open-Source-Community-VIT-AP/WSoC-Website](https://github.com/Open-Source-Community-VIT-AP/WSoC-Website)
+3. 🎉 Merged PR [#27](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/pull/27) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
+4. 🗣 Commented on [#48](https://github.com/SVijayB/PyHub/issues/48) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+5. 🎉 Merged PR [#48](https://github.com/SVijayB/PyHub/pull/48) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
 <!--END_SECTION:activity-->
 </details>
 
