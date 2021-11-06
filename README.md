@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/issues/29) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
-2. 🗣 Commented on [#80](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/80) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-3. 🎉 Merged PR [#81](https://github.com/Open-Source-Community-VIT-AP/oschub/pull/81) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-4. 🎉 Merged PR [#1](https://github.com/SVijayB/Algorithm-Analysis/pull/1) in [SVijayB/Algorithm-Analysis](https://github.com/SVijayB/Algorithm-Analysis)
-5. ❌ Closed PR [#1](https://github.com/SVijayB/Visual-Basic-Codes/pull/1) in [SVijayB/Visual-Basic-Codes](https://github.com/SVijayB/Visual-Basic-Codes)
+1. 🎉 Merged PR [#28](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/pull/28) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
+2. 🗣 Commented on [#29](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/issues/29) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
+3. 🎉 Merged PR [#29](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/pull/29) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
+4. 🗣 Commented on [#29](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/issues/29) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
+5. 🗣 Commented on [#80](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/80) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
 <!--END_SECTION:activity-->
 </details>
 
