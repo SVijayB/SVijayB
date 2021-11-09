@@ -75,10 +75,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18](https://github.com/forgefedv2/interface/issues/18) in [forgefedv2/interface](https://github.com/forgefedv2/interface)
-2. 💪 Opened PR [#18](https://github.com/forgefedv2/interface/pull/18) in [forgefedv2/interface](https://github.com/forgefedv2/interface)
-3. 🎉 Merged PR [#16](https://github.com/forgefedv2/northstar/pull/16) in [forgefedv2/northstar](https://github.com/forgefedv2/northstar)
-4. ❗️ Closed issue [#14](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/issues/14) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
-5. 🗣 Commented on [#82](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/82) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
+2. 🗣 Commented on [#18](https://github.com/forgefedv2/interface/issues/18) in [forgefedv2/interface](https://github.com/forgefedv2/interface)
+3. 💪 Opened PR [#18](https://github.com/forgefedv2/interface/pull/18) in [forgefedv2/interface](https://github.com/forgefedv2/interface)
+4. 🎉 Merged PR [#16](https://github.com/forgefedv2/northstar/pull/16) in [forgefedv2/northstar](https://github.com/forgefedv2/northstar)
+5. ❗️ Closed issue [#14](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/issues/14) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
 <!--END_SECTION:activity-->
 </details>
 
