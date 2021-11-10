@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/forgefedv2/interface/issues/18) in [forgefedv2/interface](https://github.com/forgefedv2/interface)
-2. 🗣 Commented on [#18](https://github.com/forgefedv2/interface/issues/18) in [forgefedv2/interface](https://github.com/forgefedv2/interface)
-3. 💪 Opened PR [#18](https://github.com/forgefedv2/interface/pull/18) in [forgefedv2/interface](https://github.com/forgefedv2/interface)
-4. 🎉 Merged PR [#16](https://github.com/forgefedv2/northstar/pull/16) in [forgefedv2/northstar](https://github.com/forgefedv2/northstar)
-5. ❗️ Closed issue [#14](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/issues/14) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
+1. ❗️ Closed issue [#1](https://github.com/SVijayB/PyHub/issues/1) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+2. ❌ Closed PR [#1](https://github.com/mingxuanM/Restaurant_Billing_Management_System/pull/1) in [mingxuanM/Restaurant_Billing_Management_System](https://github.com/mingxuanM/Restaurant_Billing_Management_System)
+3. ❌ Closed PR [#874](https://github.com/vinitshahdeo/inspirational-quotes/pull/874) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
+4. 💪 Opened PR [#13](https://github.com/SVijayB/OSC-DBot/pull/13) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+5. 🗣 Commented on [#18](https://github.com/forgefedv2/interface/issues/18) in [forgefedv2/interface](https://github.com/forgefedv2/interface)
 <!--END_SECTION:activity-->
 </details>
 
