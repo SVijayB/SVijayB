@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/SVijayB/OSC-DBot/issues/14) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
-2. ❗️ Closed issue [#1](https://github.com/SVijayB/PyHub/issues/1) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
-3. ❌ Closed PR [#1](https://github.com/mingxuanM/Restaurant_Billing_Management_System/pull/1) in [mingxuanM/Restaurant_Billing_Management_System](https://github.com/mingxuanM/Restaurant_Billing_Management_System)
-4. ❌ Closed PR [#874](https://github.com/vinitshahdeo/inspirational-quotes/pull/874) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
-5. 💪 Opened PR [#13](https://github.com/SVijayB/OSC-DBot/pull/13) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+1. 💪 Opened PR [#4](https://github.com/Open-Source-Community-VIT-AP/OSC-API/pull/4) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
+2. ❗️ Opened issue [#14](https://github.com/SVijayB/OSC-DBot/issues/14) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+3. ❗️ Closed issue [#1](https://github.com/SVijayB/PyHub/issues/1) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+4. ❌ Closed PR [#1](https://github.com/mingxuanM/Restaurant_Billing_Management_System/pull/1) in [mingxuanM/Restaurant_Billing_Management_System](https://github.com/mingxuanM/Restaurant_Billing_Management_System)
+5. ❌ Closed PR [#874](https://github.com/vinitshahdeo/inspirational-quotes/pull/874) in [vinitshahdeo/inspirational-quotes](https://github.com/vinitshahdeo/inspirational-quotes)
 <!--END_SECTION:activity-->
 </details>
 
