@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/SVijayB/OSC-DBot/pull/16) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
-2. 💪 Opened PR [#15](https://github.com/SVijayB/OSC-DBot/pull/15) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
-3. 💪 Opened PR [#4](https://github.com/Open-Source-Community-VIT-AP/OSC-API/pull/4) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
-4. ❗️ Opened issue [#14](https://github.com/SVijayB/OSC-DBot/issues/14) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
-5. ❗️ Closed issue [#1](https://github.com/SVijayB/PyHub/issues/1) in [SVijayB/PyHub](https://github.com/SVijayB/PyHub)
+1. ❗️ Opened issue [#18](https://github.com/SVijayB/OSC-DBot/issues/18) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+2. ❗️ Opened issue [#17](https://github.com/SVijayB/OSC-DBot/issues/17) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+3. 💪 Opened PR [#16](https://github.com/SVijayB/OSC-DBot/pull/16) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+4. 💪 Opened PR [#15](https://github.com/SVijayB/OSC-DBot/pull/15) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+5. 💪 Opened PR [#4](https://github.com/Open-Source-Community-VIT-AP/OSC-API/pull/4) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
 <!--END_SECTION:activity-->
 </details>
 
