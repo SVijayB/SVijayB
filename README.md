@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/SVijayB/OSC-DBot/issues/20) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
-2. 🎉 Merged PR [#29](https://github.com/forgefedv2/interface/pull/29) in [forgefedv2/interface](https://github.com/forgefedv2/interface)
-3. 🗣 Commented on [#29](https://github.com/forgefedv2/interface/issues/29) in [forgefedv2/interface](https://github.com/forgefedv2/interface)
-4. 🗣 Commented on [#2](https://github.com/SVijayB/Resources/issues/2) in [SVijayB/Resources](https://github.com/SVijayB/Resources)
-5. ❗️ Closed issue [#2](https://github.com/SVijayB/Resources/issues/2) in [SVijayB/Resources](https://github.com/SVijayB/Resources)
+1. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/issues/5) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
+2. ❗️ Opened issue [#20](https://github.com/SVijayB/OSC-DBot/issues/20) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+3. 🎉 Merged PR [#29](https://github.com/forgefedv2/interface/pull/29) in [forgefedv2/interface](https://github.com/forgefedv2/interface)
+4. 🗣 Commented on [#29](https://github.com/forgefedv2/interface/issues/29) in [forgefedv2/interface](https://github.com/forgefedv2/interface)
+5. 🗣 Commented on [#2](https://github.com/SVijayB/Resources/issues/2) in [SVijayB/Resources](https://github.com/SVijayB/Resources)
 <!--END_SECTION:activity-->
 </details>
 
