@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SVijayB/SVijayB/pull/1) in [SVijayB/SVijayB](https://github.com/SVijayB/SVijayB)
-2. ❌ Reopened PR [#1](https://github.com/SVijayB/SVijayB/pull/1) in [SVijayB/SVijayB](https://github.com/SVijayB/SVijayB)
-3. 🗣 Commented on [#5](https://github.com/SVijayB/Spam-Botz/issues/5) in [SVijayB/Spam-Botz](https://github.com/SVijayB/Spam-Botz)
-4. ❗️ Closed issue [#5](https://github.com/SVijayB/Spam-Botz/issues/5) in [SVijayB/Spam-Botz](https://github.com/SVijayB/Spam-Botz)
-5. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/issues/5) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
+1. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/issues/5) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
+2. 🎉 Merged PR [#1](https://github.com/SVijayB/SVijayB/pull/1) in [SVijayB/SVijayB](https://github.com/SVijayB/SVijayB)
+3. ❌ Reopened PR [#1](https://github.com/SVijayB/SVijayB/pull/1) in [SVijayB/SVijayB](https://github.com/SVijayB/SVijayB)
+4. 🗣 Commented on [#5](https://github.com/SVijayB/Spam-Botz/issues/5) in [SVijayB/Spam-Botz](https://github.com/SVijayB/Spam-Botz)
+5. ❗️ Closed issue [#5](https://github.com/SVijayB/Spam-Botz/issues/5) in [SVijayB/Spam-Botz](https://github.com/SVijayB/Spam-Botz)
 <!--END_SECTION:activity-->
 </details>
 
