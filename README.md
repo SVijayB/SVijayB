@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-API/issues/5) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
-2. ❗️ Closed issue [#20](https://github.com/SVijayB/OSC-DBot/issues/20) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
-3. 🗣 Commented on [#20](https://github.com/SVijayB/OSC-DBot/issues/20) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
-4. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/issues/5) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
-5. 🎉 Merged PR [#1](https://github.com/SVijayB/SVijayB/pull/1) in [SVijayB/SVijayB](https://github.com/SVijayB/SVijayB)
+1. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-API/issues/5) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
+2. ❗️ Opened issue [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-API/issues/5) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
+3. ❗️ Closed issue [#20](https://github.com/SVijayB/OSC-DBot/issues/20) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+4. 🗣 Commented on [#20](https://github.com/SVijayB/OSC-DBot/issues/20) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+5. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/issues/5) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
 <!--END_SECTION:activity-->
 </details>
 
