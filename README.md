@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Open-Source-Community-VIT-AP/OSC-API/issues/7) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
-2. ❗️ Opened issue [#7](https://github.com/Open-Source-Community-VIT-AP/OSC-API/issues/7) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
-3. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-API/issues/5) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
-4. ❗️ Opened issue [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-API/issues/5) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
-5. ❗️ Closed issue [#20](https://github.com/SVijayB/OSC-DBot/issues/20) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+1. 🎉 Merged PR [#6](https://github.com/Open-Source-Community-VIT-AP/OSC-API/pull/6) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
+2. ❗️ Closed issue [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-API/issues/5) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
+3. 🗣 Commented on [#7](https://github.com/Open-Source-Community-VIT-AP/OSC-API/issues/7) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
+4. ❗️ Opened issue [#7](https://github.com/Open-Source-Community-VIT-AP/OSC-API/issues/7) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
+5. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-API/issues/5) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
 <!--END_SECTION:activity-->
 </details>
 
