@@ -74,11 +74,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#83](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/83) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-2. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/issues/5) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
-3. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/issues/5) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
-4. ❗️ Opened issue [#30](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/issues/30) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
-5. 💪 Opened PR [#8](https://github.com/Open-Source-Community-VIT-AP/OSC-API/pull/8) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
+1. 🎉 Merged PR [#6](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/pull/6) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
+2. 🎉 Merged PR [#7](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/pull/7) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
+3. ❗️ Opened issue [#83](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/83) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
+4. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/issues/5) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
+5. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/issues/5) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
 <!--END_SECTION:activity-->
 </details>
 
