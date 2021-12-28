@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:vijaybalaji2477@gmail.com">
+  <a href="mailto:svijayb.dev@gmail.com">
     <img alt="Gmail" width="22px" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Social/gmail.svg" />
   </a>
 
@@ -34,25 +34,24 @@
   </a>
 </p>
 
+### Just another Machine learning, Data science enthusiast 💻
 
-### Just another Machine learning, Data science enthusiast 💻 
-
-  - 📝 Working on various Python projects and automation tools.
-  - 🌱 Learning Java.
-  - 👯 Would love to collaborate on Maching learning projects.
-  - 🤔 Need help in front-end and GUI development.
-  - 💬 Ask me about Python and Web Dev.
-  - ⚡ Fun fact: I spend most of my time gaming or coding.
+-   📝 Working on various Python projects and automation tools.
+-   🌱 Learning Java.
+-   👯 Would love to collaborate on Maching learning projects.
+-   🤔 Need help in front-end and GUI development.
+-   💬 Ask me about Python and Web Dev.
+-   ⚡ Fun fact: I spend most of my time gaming or coding.
 
 ### Languages 🚀
 
-|<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/python.svg" width=60></a> | <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/java.svg" width=60></a>| <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/c++.svg" width=60></a>| <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/visual-basic.svg" width=60></a> |<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/html5.svg" width=60></a> |<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/css.svg" width=60></a> |<a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/r.svg" width=60></a> |<a href="https://www.mathworks.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/matlab.svg" width=60></a> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/python.svg" width=60></a> | <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/java.svg" width=60></a> | <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/c++.svg" width=60></a> | <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/visual-basic.svg" width=60></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/html5.svg" width=60></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/css.svg" width=60></a> | <a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/r.svg" width=60></a> | <a href="https://www.mathworks.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Languages/matlab.svg" width=60></a> |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ### Tools 🔥
 
-|<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60></a> |<a href="http://github.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/github.svg" width=60></a> |<a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/arduino.svg" width=60></a> |<a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/netlify.svg" width=60></a> |<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/git.svg" width=60></a> |<a href="https://www.vim.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/vim.svg" width=60></a> |<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/bash.svg" width=60></a> |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/Vscode.svg" width=60></a> | <a href="http://github.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/github.svg" width=60></a> | <a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/arduino.svg" width=60></a> | <a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/netlify.svg" width=60></a> | <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/git.svg" width=60></a> | <a href="https://www.vim.org/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/vim.svg" width=60></a> | <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Tools/bash.svg" width=60></a> |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ### Github stats 📊
 
@@ -74,18 +73,19 @@
   <br/>
 
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#1034](https://github.com/sherlock-project/sherlock/issues/1034) in [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 2. 🗣 Commented on [#83](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/83) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
 3. 🎉 Merged PR [#6](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/pull/6) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
 4. 🎉 Merged PR [#7](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/pull/7) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
 5. ❗️ Opened issue [#83](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/83) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-<!--END_SECTION:activity-->
-</details>
+    <!--END_SECTION:activity-->
+    </details>
 
 ### Trying to get in touch? 📞
 
 <p align="center">
-  <a href="mailto:vijaybalaji2477@gmail.com">
+  <a href="mailto:svijayb.dev@gmail.com">
     <img alt="Gmail" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/email.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 
