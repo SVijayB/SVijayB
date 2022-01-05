@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1034](https://github.com/sherlock-project/sherlock/issues/1034) in [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
-2. 🗣 Commented on [#83](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/83) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-3. 🎉 Merged PR [#6](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/pull/6) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
-4. 🎉 Merged PR [#7](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/pull/7) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
-5. ❗️ Opened issue [#83](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/83) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
+1. ❗️ Opened issue [#21](https://github.com/SVijayB/OSC-DBot/issues/21) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+2. 🗣 Commented on [#1034](https://github.com/sherlock-project/sherlock/issues/1034) in [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+3. 🗣 Commented on [#83](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/83) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
+4. 🎉 Merged PR [#6](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/pull/6) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
+5. 🎉 Merged PR [#7](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/pull/7) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
     <!--END_SECTION:activity-->
     </details>
 
