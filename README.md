@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#84](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/84) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
-2. 🎉 Merged PR [#9](https://github.com/forgeflux-org/website/pull/9) in [forgeflux-org/website](https://github.com/forgeflux-org/website)
-3. 💪 Opened PR [#8](https://github.com/forgeflux-org/website/pull/8) in [forgeflux-org/website](https://github.com/forgeflux-org/website)
-4. ❗️ Opened issue [#21](https://github.com/SVijayB/OSC-DBot/issues/21) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
-5. 🗣 Commented on [#1034](https://github.com/sherlock-project/sherlock/issues/1034) in [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+1. ❗️ Opened issue [#22](https://github.com/SVijayB/OSC-DBot/issues/22) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+2. 🗣 Commented on [#6](https://github.com/SVijayB/OSC-DBot/issues/6) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+3. ❗️ Reopened issue [#6](https://github.com/SVijayB/OSC-DBot/issues/6) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+4. ❗️ Opened issue [#84](https://github.com/Open-Source-Community-VIT-AP/oschub/issues/84) in [Open-Source-Community-VIT-AP/oschub](https://github.com/Open-Source-Community-VIT-AP/oschub)
+5. 🎉 Merged PR [#9](https://github.com/forgeflux-org/website/pull/9) in [forgeflux-org/website](https://github.com/forgeflux-org/website)
     <!--END_SECTION:activity-->
     </details>
 
