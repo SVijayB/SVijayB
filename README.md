@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#75](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/75) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
-2. 🗣 Commented on [#75](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/75) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
-3. 💪 Opened PR [#1](https://github.com/Open-Source-Community-VIT-AP/OSC-Template/pull/1) in [Open-Source-Community-VIT-AP/OSC-Template](https://github.com/Open-Source-Community-VIT-AP/OSC-Template)
-4. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/issues/5) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
-5. ❗️ Opened issue [#22](https://github.com/SVijayB/OSC-DBot/issues/22) in [SVijayB/OSC-DBot](https://github.com/SVijayB/OSC-DBot)
+1. 🎉 Merged PR [#33](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/pull/33) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
+2. 🎉 Merged PR [#75](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/75) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+3. 🗣 Commented on [#75](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/75) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+4. 💪 Opened PR [#1](https://github.com/Open-Source-Community-VIT-AP/OSC-Template/pull/1) in [Open-Source-Community-VIT-AP/OSC-Template](https://github.com/Open-Source-Community-VIT-AP/OSC-Template)
+5. 🗣 Commented on [#5](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs/issues/5) in [Open-Source-Community-VIT-AP/OSC-Docs](https://github.com/Open-Source-Community-VIT-AP/OSC-Docs)
     <!--END_SECTION:activity-->
     </details>
 
