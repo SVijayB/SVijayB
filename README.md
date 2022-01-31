@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#32](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/pull/32) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
-2. ❗️ Closed issue [#8](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/issues/8) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
-3. 🎉 Merged PR [#33](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/pull/33) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
-4. 🎉 Merged PR [#75](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/75) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
-5. 🗣 Commented on [#75](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/issues/75) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
+1. 🎉 Merged PR [#2](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx/pull/2) in [Open-Source-Community-VIT-AP/Ideaoryx](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx)
+2. 🎉 Merged PR [#32](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/pull/32) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
+3. ❗️ Closed issue [#8](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/issues/8) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
+4. 🎉 Merged PR [#33](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/pull/33) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
+5. 🎉 Merged PR [#75](https://github.com/Open-Source-Community-VIT-AP/OpenSource101/pull/75) in [Open-Source-Community-VIT-AP/OpenSource101](https://github.com/Open-Source-Community-VIT-AP/OpenSource101)
     <!--END_SECTION:activity-->
     </details>
 
