@@ -74,11 +74,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx/pull/3) in [Open-Source-Community-VIT-AP/Ideaoryx](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx)
-2. 🗣 Commented on [#3](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx/issues/3) in [Open-Source-Community-VIT-AP/Ideaoryx](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx)
-3. 🎉 Merged PR [#2](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx/pull/2) in [Open-Source-Community-VIT-AP/Ideaoryx](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx)
-4. 🎉 Merged PR [#32](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/pull/32) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
-5. ❗️ Closed issue [#8](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/issues/8) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
+1. 🎉 Merged PR [#9](https://github.com/Open-Source-Community-VIT-AP/OSC-API/pull/9) in [Open-Source-Community-VIT-AP/OSC-API](https://github.com/Open-Source-Community-VIT-AP/OSC-API)
+2. 🎉 Merged PR [#3](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx/pull/3) in [Open-Source-Community-VIT-AP/Ideaoryx](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx)
+3. 🗣 Commented on [#3](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx/issues/3) in [Open-Source-Community-VIT-AP/Ideaoryx](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx)
+4. 🎉 Merged PR [#2](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx/pull/2) in [Open-Source-Community-VIT-AP/Ideaoryx](https://github.com/Open-Source-Community-VIT-AP/Ideaoryx)
+5. 🎉 Merged PR [#32](https://github.com/Open-Source-Community-VIT-AP/OSC-Website/pull/32) in [Open-Source-Community-VIT-AP/OSC-Website](https://github.com/Open-Source-Community-VIT-AP/OSC-Website)
     <!--END_SECTION:activity-->
     </details>
 
