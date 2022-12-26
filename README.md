@@ -64,7 +64,7 @@
   </a>
   <br>
   <a href="https://sourcerer.io/svijayb">
-    <img alt = "Contribution Graph" src = "https://activity-graph.herokuapp.com/graph?username=SVijayB&theme=react-dark">
+    <img alt = "Contribution Graph" src = "https://github-readme-activity-graph.cyclic.app/graph?username=svijayb&theme=react-dark">
   </a>
 </p>
 
