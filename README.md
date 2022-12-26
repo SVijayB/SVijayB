@@ -60,7 +60,7 @@
     <img alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=SVijayB&show_icons=true&theme=light">
   </a>
   <a href="https://sourcerer.io/svijayb">
-    <img alt = "GitHub Streaks" src = "https://github-readme-streak-stats-2.herokuapp.com/?user=SVijayB&theme=blood&ring=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&currStreakLabel=1E90FF&fire=FF0000&currStreakNum=FF0000">
+    <img alt = "GitHub Streaks" src = "https://streak-stats.demolab.com/?user=svijayb&theme=blood&ring=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&currStreakLabel=1E90FF&fire=FF0000&currStreakNum=FF0000">
   </a>
   <br>
   <a href="https://sourcerer.io/svijayb">
