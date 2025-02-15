@@ -62,10 +62,6 @@
   <a href="https://sourcerer.io/svijayb">
     <img alt = "GitHub Streaks" src = "https://streak-stats.demolab.com/?user=svijayb&theme=blood&ring=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&currStreakLabel=1E90FF&fire=FF0000&currStreakNum=FF0000">
   </a>
-  <br>
-  <a href="https://sourcerer.io/svijayb">
-    <img alt = "Contribution Graph" src = "https://github-readme-activity-graph.cyclic.app/graph?username=svijayb&theme=react-dark">
-  </a>
 </p>
 
 <details>
