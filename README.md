@@ -93,7 +93,7 @@
     <img alt="Twitter" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/twitter.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 
-  <a href="https://www.instagram.com/s.vj._/">
+  <a href="https://www.instagram.com/svijayb.jpeg">
     <img alt="Instagram" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Contact/instagram.svg" style="vertical-align:top margin:6px 4px"/>
   </a>
 
