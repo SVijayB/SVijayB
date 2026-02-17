@@ -33,7 +33,7 @@
 
 ### 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="33%">
 
@@ -55,7 +55,7 @@
 
 ### Databases
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase&perline=3" /> 
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,graphql&perline=3" /> 
 </div>
 
 </td>
