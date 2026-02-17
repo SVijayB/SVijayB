@@ -20,8 +20,9 @@
   <a href="https://www.vijaybalaji.com/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   <br /><br />
-    <a href="https://www.vijaybalaji.com/">
+  <a href="http://vijaybalaji.me/">
     <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/GIF/Gif.gif" />
+  </a>
   <br /><br />
   <a href="https://github.com/SVijayB">
     <img alt="Profile View count" src="https://komarev.com/ghpvc/?username=SVijayB&style=flat-square&color=blue" />
