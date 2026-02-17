@@ -33,13 +33,15 @@
 
 ### 🛠️ Tech Stack
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
 <td valign="top" width="33%">
 
 ### Languages
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,r,matlab&perline=3" /> 
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,r,matlab&perline=6" /> 
 </div>
 
 </td>
@@ -47,7 +49,7 @@
 
 ### Frameworks
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,pytorch,tensorflow&perline=3" /> 
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,pytorch,tensorflow&perline=6" /> 
 </div>
 
 </td>
@@ -55,7 +57,7 @@
 
 ### Databases
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,graphql&perline=3" /> 
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,graphql&perline=6" /> 
 </div>
 
 </td>
@@ -66,7 +68,7 @@
 
 ### Cloud & DevOps
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux&perline=3" /> 
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux&perline=6" /> 
 </div>
 
 </td>
@@ -74,7 +76,7 @@
 
 ### Tools & IDEs
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,bash,postman&perline=3" /> 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,bash,postman&perline=6" /> 
 </div>
 
 </td>
@@ -82,12 +84,14 @@
 
 ### Other Technologies
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,graphql,npm&perline=3" /> 
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,graphql,npm&perline=6" /> 
 </div>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
