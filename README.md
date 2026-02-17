@@ -24,7 +24,7 @@
     <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/GIF/Gif.gif" />
   <br /><br />
   <a href="https://github.com/SVijayB">
-    <img alt="Profile View count" src="https://komarev.com/ghpvc/?username=SVijayB&style=flat-square&color=blue" />
+    <img alt="Profile View count" src="https://komarev.com/ghpvc/?username=SVijayB&style=for-the-badge&color=blue" />
   </a>
 </p>
 
@@ -32,20 +32,61 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-Python • SQL • Java • C++ • JavaScript • R • MATLAB
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Frameworks & Libraries:**  
-FastAPI • Flask • Django • Node.js • Streamlit • PyTorch • scikit-learn • Pandas • Polars • Apache Spark/PySpark
+### Languages
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp,r,matlab&perline=3" /> 
+</div>
 
-**Databases:**  
-PostgreSQL • MongoDB • MS SQL Server • Snowflake • Redis
+</td>
+<td valign="top" width="33%">
 
-**Cloud & DevOps:**  
-AWS • Docker • Kubernetes • Terraform • Ansible • Git • Shell Scripting
+### Frameworks & Libraries
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,pytorch,tensorflow&perline=3" /> 
+</div>
 
-**ML & Data Science:**  
-Computer Vision • NLP • Time Series Analysis • Statistical Modeling • Deep Learning
+</td>
+<td valign="top" width="33%">
+
+### Databases
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase&perline=3" /> 
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="33%">
+
+### Cloud & DevOps
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux&perline=3" /> 
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### Tools & IDEs
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,bash,postman&perline=3" /> 
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### Other Technologies
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,graphql,npm&perline=3" /> 
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
