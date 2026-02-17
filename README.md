@@ -6,52 +6,26 @@
 
 <p align="center">
   <a href="mailto:svijayb.dev@gmail.com">
-    <img alt="Gmail" width="22px" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Social/gmail.svg" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
   <a href="https://www.linkedin.com/in/svijayb/">
-    <img alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Social/linkedin.svg" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://twitter.com/VijaybalajiS1">
-    <img alt="VijaybalajiS1 | Twitter" width="22px" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Social/twitter.svg" />
+  <a href="https://x.com/VijaybalajiS1">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
-
-  <a href="https://www.instagram.com/s.vj._/">
-    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Social/instagram.svg" />
+  <a href="https://www.instagram.com/svijayb.jpeg/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
-  <a href="https://www.hackerrank.com/SVijayB">
-    <img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/SVG/Social/hackerrank.svg" />
-  </a>
-
-  <br />
-  <a href="http://vijaybalaji.me/">
-    <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/GIF/Gif.gif" />
-  </a>
+  <a href="https://www.vijaybalaji.com/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <br /><br />
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/SVijayB/SVijayB/master/assets/GIF/Gif.gif" />
   <br /><br />
   <a href="https://github.com/SVijayB">
-  <img alt="Profile View count" src="https://komarev.com/ghpvc/?username=SVijayB&style=flat-square&color=brightgreen" />
+    <img alt="Profile View count" src="https://komarev.com/ghpvc/?username=SVijayB&style=flat-square&color=blue" />
   </a>
 </p>
-
-
-### 🔥 What I Do
-
-**Data Science & AI**
-- Building high-performance models for deep learning and statistical tasks
-- Expertise in Computer Vision and Natural Language Processing (NLP)
-- Advanced quantitative modeling for predictive forecasting and time series analysis
-
-**Full Stack Development**
-- Developing robust backend applications with Flask, Django, and Node.js
-- Designing RESTful and GraphQL APIs for seamless communication
-- Optimizing database performance with Redis and caching strategies
-
-**Cloud Infrastructure**
-- Setting up CI/CD pipelines for automated deployment workflows
-- Infrastructure automation through Ansible and Terraform
-- Container orchestration with Kubernetes for scalable applications
 
 ---
 
