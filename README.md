@@ -39,13 +39,13 @@
 
 ### Languages
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp,r,matlab&perline=3" /> 
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,r,matlab&perline=3" /> 
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-### Frameworks & Libraries
+### Frameworks
 <div align="center">  
 <img src="https://skillicons.dev/icons?i=flask,django,fastapi,nodejs,pytorch,tensorflow&perline=3" /> 
 </div>
