@@ -33,6 +33,10 @@
 
 ### 🛠️ Tech Stack
 
+<p align="center">
+    <img src="https://i.pinimg.com/originals/4a/65/ab/4a65abeead3a8d113bccfee5d5d239f4.gif">
+</p>
+
 <div align="center">
 
 <table>
