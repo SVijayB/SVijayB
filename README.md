@@ -114,6 +114,10 @@
   <img src="https://streak-stats.demolab.com/?user=SVijayB&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<a href="https://monkeytype.com/profile/svijayb" align="center">
+  <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+</a>
+
 ---
 
 ### 📫 Get In Touch
