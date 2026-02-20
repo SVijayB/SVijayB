@@ -114,9 +114,13 @@
   <img src="https://streak-stats.demolab.com/?user=SVijayB&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<a href="https://monkeytype.com/profile/svijayb" align="center">
-  <img src="https://raw.githubusercontent.com/SVijayB/SVijayB/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-</a>
+### 🐒 Monkey Type
+<p align="center">
+  <a href="https://monkeytype.com/profile/svijayb" align="center">
+    <img src="/assets/SVG/Monkeytype/monkeytype.svg" alt="My Monkeytype profile" / width="30%" />
+  </a>
+  <img src="https://external-preview.redd.it/DKs9Xi5FWAQ0NfizT_CpEOIvWaLYfVFJEDQtSDxCEtQ.gif?auto=webp&s=c56717ec567e3bc68cfc90908563d66c131d4b7c" width ="50%" />
+</p>
 
 ---
 
