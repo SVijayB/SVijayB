@@ -1,5 +1,5 @@
 
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 460" width="500" height="460"
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 220" width="1020" height="220"
             class="rounded-2xl">
             <style>
                 /*
@@ -1641,9 +1641,9 @@ video {
 }
 
             </style>
-            <foreignObject x="0" y="0" width="500" height="460">
+            <foreignObject x="0" y="10" width="500" height="200">
                 <div xmlns="http://www.w3.org/1999/xhtml">
-            <div class="mt-5 w-full rounded-2xl" style="background-color: #141b23; height: 200px;">
+            <div class="w-full rounded-2xl" style="background-color: #0D1117; height: 200px;">
                 <div class="flex h-full items-center justify-center">
                     <div class="mx-5">
                         <div class="flex items-center justify-around">
@@ -1707,7 +1707,11 @@ video {
                     </div>
                 </div>
             </div>
-            <div class="mt-5 w-full rounded-2xl" style="background-color: #141b23; height: 200px;">
+        </div>
+            </foreignObject>
+            <foreignObject x="520" y="10" width="500" height="200">
+                <div xmlns="http://www.w3.org/1999/xhtml">
+            <div class="w-full rounded-2xl" style="background-color: #0D1117; height: 200px;">
                 <div class="flex h-full items-center justify-center">
                     <div class="mx-5">
                         <div class="flex items-center justify-around">
@@ -1772,8 +1776,6 @@ video {
                 </div>
             </div>
         </div>
-
-                <div xmlns="http://www.w3.org/1999/xhtml" class="mt-5"></div>
             </foreignObject>
         </svg>
     
