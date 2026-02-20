@@ -116,14 +116,11 @@
 
 <p align="center">
   <a href="https://monkeytype.com/profile/svijayb">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Monkeytype_logo.png" alt="monkeytype logo" width="20%"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Monkeytype_logo.png" alt="monkeytype logo" width="25%"/>
   </a>
-  <img src="assets/GIF/typing.gif " alt="typing animation" width="75"/>
-</p>
 
-<p align="center">
   <a href="https://monkeytype.com/profile/svijayb" align="center">
-    <img src="/assets/SVG/Monkeytype/monkeytype.svg" alt="My Monkeytype profile" width="90%"/>
+    <img src="/assets/SVG/monkeytype.svg" alt="My Monkeytype profile"/>
   </a>
 </p>
 

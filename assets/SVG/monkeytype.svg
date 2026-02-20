@@ -1643,7 +1643,7 @@ video {
             </style>
             <foreignObject x="0" y="10" width="500" height="200">
                 <div xmlns="http://www.w3.org/1999/xhtml">
-            <div class="w-full rounded-2xl" style="background-color: #0D1117; height: 200px;">
+            <div class="w-full rounded-2xl" style="background-color: #141b23; height: 200px;">
                 <div class="flex h-full items-center justify-center">
                     <div class="mx-5">
                         <div class="flex items-center justify-around">
@@ -1711,7 +1711,7 @@ video {
             </foreignObject>
             <foreignObject x="520" y="10" width="500" height="200">
                 <div xmlns="http://www.w3.org/1999/xhtml">
-            <div class="w-full rounded-2xl" style="background-color: #0D1117; height: 200px;">
+            <div class="w-full rounded-2xl" style="background-color: #141b23; height: 200px;">
                 <div class="flex h-full items-center justify-center">
                     <div class="mx-5">
                         <div class="flex items-center justify-around">
